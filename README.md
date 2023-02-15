@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dee-hegde" alt="dee-hegde" /></a> </p>
 
-- 🌱 I’m currently learning **React,Redux,html,CSS,JS**
+- 🌱 I’m currently learning **React,Redux,html,CSS,JS,nextjs**
 
 - 💬 Ask me about **React,Redux,html,CSS,JS**
 
